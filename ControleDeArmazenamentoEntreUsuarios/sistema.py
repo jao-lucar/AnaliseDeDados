@@ -114,15 +114,19 @@ def add_coluna_porcentagem(dados_tratados, arm_servidor_gigas):
         tabela_porcentagem[k] = f"{bytes_para_gb(v) * 100 / arm_servidor_gigas:.2f}%"
     return tabela_porcentagem
 
+
 usuarios = ler_arquivo_usuario()
 usuarios = tratar_dados_usuario(usuarios)
 arm_usuario = ler_arquivo_arm_usuario()
 arm_usuario = tratar_dados_arm_usuario(arm_usuario)
 
-tabela_porcentagem = add_coluna_porcentagem(arm_usuario, 50)
+tabela_porcentagem = add_coluna_porcentagem(arm_usuario, 25)
 arm_usuario = converter_dados(arm_usuario)
 
 tabela_final = mesclar_tabelas(usuarios, arm_usuario, tabela_porcentagem)
 
 escrever_relatorio(tabela_final)
+
+
+
 
