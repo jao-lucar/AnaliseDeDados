@@ -15,6 +15,7 @@ with open("faturamento_diario.csv") as a:
     next(leitor)
     with open("relatorio.txt", "w+") as r:
         r.writelines("Faturamento Diário\n")
+
         r.writelines('=' * 50 + '\n')
         r.writelines(f'{"Data":<20}{"Valor Vendido":<10}\n')
         for linha in leitor:
