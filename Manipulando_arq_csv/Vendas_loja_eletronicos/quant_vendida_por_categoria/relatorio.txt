@@ -1,0 +1,5 @@
+Quantidade Vendida Por Categoria
+====================================================================================================
+Categoria                Quant_vendida
+Computadores             128       
+Eletrônicos             400       
