@@ -1,0 +1,62 @@
+data_venda,produto,marca,categoria,subcategoria,cor,tamanho,quant_vendida,preco
+2022-01-01,Smartphone,Xiaomi,Eletrônicos,Smartphones,Preto,128GB,10,1500.00
+2022-01-01,Notebook,Dell,Computadores,Notebooks,Prata,14",5,4000.00
+2022-01-01,Smart TV 4K,Samsung,Eletrônicos,Televisores,Preto,55",2,5000.00
+2022-01-02,Caixa de Som Bluetooth,JBL,Eletrônicos,Acessórios de Áudio,Azul,N/A,12,300.00
+2022-01-02,Mouse Gamer,Logitech,Computadores,Periféricos,Preto,N/A,20,150.00
+2022-01-02,Teclado Mecânico,Corsair,Computadores,Periféricos,Preto,N/A,8,400.00
+2022-01-03,Fone de Ouvido com Microfone,Philips,Eletrônicos,Fones de Ouvido,Branco,N/A,10,100.00
+2022-01-04,Smart TV 4K,Sony,Eletrônicos,Televisores,Preto,55",5,4500.00
+2022-01-04,Smartphone,Xiaomi,Eletrônicos,Smartphones,Preto,64GB,15,1500.00
+2022-01-04,Notebook,Lenovo,Computadores,Notebooks,Cinza,15.6",10,3000.00
+2022-01-04,Caixa de Som Bluetooth,JBL,Eletrônicos,Acessórios de Áudio,Azul,N/A,20,400.00
+2022-01-04,SSD,Crucial,Computadores,Armazenamento Interno,N/A,1TB,5,900.00
+2022-01-04,Monitor,Acer,Eletrônicos,Monitores,Preto,24",8,800.00
+2022-01-05,Notebook,Dell,Computadores,Notebooks,Preto,14",12,4500.00
+2022-01-05,Fone de Ouvido com Microfone,Philips,Eletrônicos,Fones de Ouvido,Preto,N/A,25,70.00
+2022-01-05,Caixa de Som Portátil,JBL,Eletrônicos,Acessórios de Áudio,Preto,N/A,15,800.00
+2022-01-05,Roteador Wi-Fi,TP-Link,Eletrônicos,Rede e Conectividade,Preto,N/A,8,200.00
+2022-01-05,HD Externo,Western Digital,Computadores,Armazenamento Externo,Preto,2TB,3,700.00
+2022-01-05,Smart TV 4K,LG,Eletrônicos,Televisores,Preto,65",7,6000.00
+2022-01-06,Smartphone Top,Samsung,Eletrônicos,Smartphones,Preto,256GB,18,4000.00
+2022-01-06,Notebook,HP,Computadores,Notebooks,Prata
+2022-01-06,Monitor,AOC,Eletrônicos,Monitores,Preto,27",3,1200.00
+2022-01-06,Mouse sem Fio,Microsoft,Computadores,Periféricos,Preto,N/A,6,100.00
+2022-01-07,Fone de Ouvido com Microfone,Sony,Eletrônicos,Fones de Ouvido,Preto,N/A,8,120.00
+2022-01-07,Notebook,Asus,Computadores,Notebooks,Preto,15.6",9,3500.00
+2022-01-07,Smart TV 4K,Xiaomi,Eletrônicos,Televisores,Preto,50",3,3000.00
+2022-01-08,HD Externo,Toshiba,Computadores,Armazenamento Externo,Prata,1TB,4,600.00
+2022-01-08,Smartphone,Apple,Eletrônicos,Smartphones,Prata,128GB,22,5000.00
+2022-01-08,Caixa de Som Bluetooth,Harman Kardon,Eletrônicos,Acessórios de Áudio,Preto,N/A,10,600.00
+2022-01-09,Notebook,Gigabyte,Computadores,Notebooks,Preto,15.6",2,4500.00
+2022-01-09,Fone de Ouvido com Microfone,Philips,Eletrônicos,Fones de Ouvido,Vermelho,N/A,5,90.00
+2022-01-09,Monitor,Samsung,Eletrônicos,Monitores,Preto,32",6,1500.00
+2022-01-10,Smartphone,Xiaomi,Eletrônicos,Smartphones,Preto,128GB,7,1700.00
+2022-01-10,Caixa de Som Bluetooth,Sony,Eletrônicos,Acessórios de Áudio,Preto,N/A,18,350.00
+2022-01-10,Notebook,Dell,Computadores,Notebooks,Cinza,14",3,4000.00
+2022-01-11,Fone de Ouvido com Microfone,Beats,Eletrônicos,Fones de Ouvido,Branco,N/A,4,250.00
+2022-01-11,Smart TV 4K,Samsung,Eletrônicos,Televisores,Preto,55",10,5000.00
+2022-01-11,Mouse sem Fio,Logitech,Computadores,Periféricos,Preto,N/A,8,90.00
+2022-01-12,Notebook,Acer,Computadores,Notebooks,Preto,15.6",6,3000.00
+2022-01-12,Smartphone,OnePlus,Eletrônicos,Smartphones,Azul,64GB,15,2000.00
+2022-01-12,Caixa de Som Bluetooth,Ultimate Ears,Eletrônicos,Acessórios de Áudio,Vermelho,N/A,5,250.00
+2022-01-13,Smart TV 4K,LG,Eletrônicos,Televisores,Preto,65",9,6000.00
+2022-01-13,Fone de Ouvido com Microfone,Samsung,Eletrônicos,Fones de Ouvido,Branco,N/A,7,80.00
+2022-01-14,Notebook,Lenovo,Computadores,Notebooks,Prata,13.3",5,3500.00
+2022-01-14,Smartphone,Google,Eletrônicos,Smartphones,Branco,128GB,11,4000.00
+2022-01-14,Caixa de Som Bluetooth,Bose,Eletrônicos,Acessórios de Áudio,Preto,N/A,6,500.00
+2022-01-15,Monitor,LG,Eletrônicos,Monitores,Preto,24",10,700.00
+2022-01-15,Mouse sem Fio,HP,Computadores,Periféricos,Preto,N/A,4,60.00
+2022-01-15,Smart TV 4K,Philips,Eletrônicos,Televisores,Preto,50",8,2500.00
+2022-01-16,Notebook,Apple,Computadores,Notebooks,Prata,13.3",3,7000.00
+2022-01-16,Fone de Ouvido com Microfone,JBL,Eletrônicos,Fones de Ouvido,Preto,N/A,6,150.00
+2022-01-16,Caixa de Som Bluetooth,Samsung,Eletrônicos,Acessórios de Áudio,Prata,N/A,11,400.00
+2022-01-17,Smartphone,Motorola,Eletrônicos,Smartphones,Preto,64GB,18,1500.00
+2022-01-17,Monitor,Acer,Eletrônicos,Monitores,Preto,27",5,1000.00
+2022-01-17,HD Externo,Western Digital,Computadores,Armazenamento Externo,Preto,2TB,3,800.00
+2022-01-18,Notebook,HP,Computadores,Notebooks,Preto,15.6",8,2500.00
+2022-01-18,Smart TV 4K,Sony,Eletrônicos,Televisores,Preto,65",12,7000.00
+2022-01-18,Fone de Ouvido com Microfone,Skullcandy,Eletrônicos,Fones de Ouvido,Vermelho,N/A,3,70.00
+2022-01-19,Caixa de Som Bluetooth,Amazon,Eletrônicos,Acessórios de Áudio,Preto,N/A,9,100.00
+2022-01-19,Mouse sem Fio,Microsoft,Computadores,Periféricos,Preto,N/A,4,80.00
+2022-01-19,Smartphone,Apple,Eletrônicos,Smartphones,Azul,256GB,14,6000.00
