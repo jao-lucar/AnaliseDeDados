@@ -17,7 +17,7 @@ with open("quant_vendida_categoria.csv") as q:
     next(leitor)
     with open("relatorio.txt", 'w') as r:
         r.writelines("Quantidade Vendida Por Categoria\n")
-        r.writelines('=' * 100 + '\n')
+        r.writelines('=' * 50 + '\n')
         r.writelines(f"{'Categoria':<25}{'Quant_vendida':<10}\n")
         for i in leitor:
             r.writelines(f"{i[0]:<25}{i[1]:<10}\n")
