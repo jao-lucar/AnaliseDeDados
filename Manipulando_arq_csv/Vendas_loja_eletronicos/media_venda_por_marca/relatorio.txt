@@ -1,0 +1,33 @@
+Média De Venda Por Marca
+==================================================
+Marca:           Média de Venda 
+AOC               3.00%
+Acer              6.33%
+Amazon            9.00%
+Apple            13.00%
+Asus              9.00%
+Beats             4.00%
+Bose              6.00%
+Corsair           8.00%
+Crucial           5.00%
+Dell              6.67%
+Gigabyte          2.00%
+Google           11.00%
+HP                6.00%
+Harman Kardon    10.00%
+JBL              13.25%
+LG                8.67%
+Lenovo            7.50%
+Logitech         14.00%
+Microsoft         5.00%
+Motorola         18.00%
+OnePlus          15.00%
+Philips          12.00%
+Samsung           9.00%
+Skullcandy        3.00%
+Sony             10.75%
+TP-Link           8.00%
+Toshiba           4.00%
+Ultimate Ears     5.00%
+Western Digital   3.00%
+Xiaomi            8.75%
