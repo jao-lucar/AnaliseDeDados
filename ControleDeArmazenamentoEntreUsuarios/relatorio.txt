@@ -1,0 +1,12 @@
+Id   Usuário             Espaço Ultilizado   %Uso  
+==================================================
+1    jessica22           5,26   GB           21.04%
+2    carlos97            3,38   GB           13.51%
+3    ana_luiza           4,40   GB           17.58%
+4    marcio_gamer        4,24   GB           16.98%
+5    luana_fernandes     624,01 MB           2.44% 
+6    pedro2022           679,75 MB           2.66% 
+7    sarahharris         22,19  GB           88.74%
+8    rodrigo.martins     4,24   GB           16.98%
+9    caroline_costa      7,57   GB           30.27%
+10   bruno_silva         884,99 KB           0.00% 
