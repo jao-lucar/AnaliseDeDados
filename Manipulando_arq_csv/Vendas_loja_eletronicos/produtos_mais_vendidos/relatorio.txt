@@ -1,0 +1,15 @@
+Produto                       Quantidade Vendida
+Smartphone                      112
+Caixa de Som Bluetooth           91
+Fone de Ouvido com Microfone     68
+Notebook                         63
+Smart TV 4K                      56
+Monitor                          32
+Mouse sem Fio                    22
+Mouse Gamer                      20
+Smartphone Top                   18
+Caixa de Som Portátil           15
+HD Externo                       10
+Roteador Wi-Fi                    8
+Teclado Mecânico                 8
+SSD                               5
